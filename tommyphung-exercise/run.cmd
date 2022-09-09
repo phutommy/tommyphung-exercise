@@ -1,1 +1,1 @@
-PowerShell.exe -command ".\greeting.ps1" > "%USERPROFILE%\Desktop\greeting.txt"
+PowerShell.exe -command ".\greeting.ps1"
